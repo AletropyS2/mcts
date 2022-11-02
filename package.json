@@ -1,13 +1,11 @@
 {
   "name": "mcts-datapack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An compiler from javascript to minecraft datapacks",
   "main": "index.js",
-  "dependencies": {
-    "uuid": "^9.0.0",
+  "devDependencies": {
     "typescript": "^4.8.4"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
