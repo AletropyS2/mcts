@@ -1,0 +1,1 @@
+{"version":3,"file":"Func.d.ts","sourceRoot":"","sources":["../../src/Mcts/Func.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,OAAO,OAAO,IAAI;IAErB,OAAO,CAAC,MAAM,CAAC,UAAU,CAAc;WAEzB,GAAG,CAAC,QAAQ,EAAG,MAAM,EAAE,EAAE,IAAI,GAAG,MAAa;WAc7C,EAAE,CAAC,IAAI,EAAG,MAAM;CAKjC"}

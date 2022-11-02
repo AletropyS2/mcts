@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module":  "CommonJS",
+        "declarationMap": true,
+        "declaration": true,
+        "target": "es6",
+        "rootDir": "./src",
+        "outDir": "./build",
+        "noEmitOnError": true,
+        "moduleResolution": "Node",
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    },
+}

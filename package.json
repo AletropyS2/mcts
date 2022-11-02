@@ -1,0 +1,13 @@
+{
+  "name": "mcts",
+  "version": "0.1.0",
+  "description": "An compiler from javascript/typescript to minecraft datapacks",
+  "author": "Aletropy",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.9"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
